@@ -1,0 +1,12 @@
+com\todocode\veterinaria\controller\AmoController.class
+com\todocode\veterinaria\service\IAmoService.class
+com\todocode\veterinaria\dto\MascotaAmoDTO.class
+com\todocode\veterinaria\VeterinariaApplication.class
+com\todocode\veterinaria\controller\MascotaController.class
+com\todocode\veterinaria\service\MascotaService.class
+com\todocode\veterinaria\model\Mascota.class
+com\todocode\veterinaria\service\AmoService.class
+com\todocode\veterinaria\repository\AmoRepository.class
+com\todocode\veterinaria\model\Amo.class
+com\todocode\veterinaria\service\IMascotaService.class
+com\todocode\veterinaria\repository\MascotaRepository.class
